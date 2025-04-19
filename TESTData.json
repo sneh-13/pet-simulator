@@ -1,0 +1,24 @@
+{
+  "score" : 15,
+  "gameTimePlayed" : 0.1,
+  "activePet" : {
+    "petType" : "Dog",
+    "health" : 100,
+    "sleep" : 94,
+    "fullness" : 94,
+    "happiness" : 94,
+    "name" : "TEST",
+    "isDead" : false,
+    "isSleeping" : false,
+    "isHungry" : false,
+    "isAngry" : false,
+    "happinessBoost" : 10,
+    "type" : "Dog",
+    "itemCount" : 4,
+    "sleeping" : false,
+    "dead" : false,
+    "inventory" : {
+      "maxItems" : 100
+    }
+  }
+}
